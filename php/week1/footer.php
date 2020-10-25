@@ -1,0 +1,1 @@
+Copyright &copy; w3Schools.com
